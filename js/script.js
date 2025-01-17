@@ -40,5 +40,28 @@ const teamMembers = [
 ];
 
 // Selezioniamo l'elemento di output
+const divTeamMember = document.querySelector(".main_container")
+
+
+// Creo una variabile con tutti gli oggetti
+let attribute = "";
+
+// Creo un ciclo per estrarre tutti gli elementi dall'array
+for (let i = 0; i<teamMembers.length; i++){
+
+  teamMembersIesimo = teamMembers[i]
+
+  
+
+  const {name, role, email, img} = teamMembersIesimo
+  
+  
+  
+}
+
+
+
+
+
 
 
