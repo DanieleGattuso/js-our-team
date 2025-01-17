@@ -1,3 +1,5 @@
+
+// Creiamo l'array
 const teamMembers = [
   {
     name: "Marco Bianchi",
@@ -36,5 +38,7 @@ const teamMembers = [
     img: "img/female3.png"
   }
 ];
+
+// Selezioniamo l'elemento di output
 
 
